@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1fbf92ca.css",
+    "main.js": "/static/js/main.0b0f8e79.js",
+    "static/js/787.aa9e52e0.chunk.js": "/static/js/787.aa9e52e0.chunk.js",
+    "static/media/Dongle-Regular.ttf": "/static/media/Dongle-Regular.be19c2ab1576230dd28d.ttf",
+    "static/media/flower.png": "/static/media/flower.3da1598398b65eb3225f.png",
+    "static/media/Fairy_Melody.png": "/static/media/Fairy_Melody.f0984080ae98353d3ab8.png",
+    "static/media/Legit_CV-.pdf": "/static/media/Legit_CV-.855785d39605a872f3c9.pdf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.1fbf92ca.css.map": "/static/css/main.1fbf92ca.css.map",
+    "main.0b0f8e79.js.map": "/static/js/main.0b0f8e79.js.map",
+    "787.aa9e52e0.chunk.js.map": "/static/js/787.aa9e52e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fbf92ca.css",
+    "static/js/main.0b0f8e79.js"
+  ]
+}
