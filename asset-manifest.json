@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.330f8dd0.css",
+    "main.css": "/static/css/main.6d1fe605.css",
     "main.js": "/static/js/main.7bebedfd.js",
     "static/js/787.aa9e52e0.chunk.js": "/static/js/787.aa9e52e0.chunk.js",
     "static/media/Dongle-Regular.ttf": "/static/media/Dongle-Regular.be19c2ab1576230dd28d.ttf",
@@ -9,12 +9,12 @@
     "static/media/Legit_CV-.pdf": "/static/media/Legit_CV-.855785d39605a872f3c9.pdf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.330f8dd0.css.map": "/static/css/main.330f8dd0.css.map",
+    "main.6d1fe605.css.map": "/static/css/main.6d1fe605.css.map",
     "main.7bebedfd.js.map": "/static/js/main.7bebedfd.js.map",
     "787.aa9e52e0.chunk.js.map": "/static/js/787.aa9e52e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.330f8dd0.css",
+    "static/css/main.6d1fe605.css",
     "static/js/main.7bebedfd.js"
   ]
 }
