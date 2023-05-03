@@ -8,12 +8,12 @@
 </head>
 
     <nav class="navbar">
-        <a href="./index.html" style="color:#fd00fe;font-size:50px;float:left;margin-left:2vw;"> Home</a>
+        <a href="../src/index.js" style="color:#fd00fe;font-size:50px;float:left;margin-left:2vw;"> Home</a>
         <a style="font-size:50px;color:#a600a6;float:left;margin-left: 20vw;"> <u> Cherry Blossoms </u> </a>
         <title>Cherry Blossoms</title>
 
     </nav>
- <body  onload="createFallingFlowers();" style="background-color:rebeccapurple;text-align: center;">
+ <body  id="bd" onload="createFallingFlowers();" style="background-color:rebeccapurple;text-align: center;">
 
 <div id="cherry_about" class="about" style="background-color: deeppink;visibility: hidden;height:550px;width:300px;float: right;">
     <article style="font-size:35px;color: #a600a6;text-align: center">
@@ -32,7 +32,7 @@
 <script>
     function ms(){
 const cursor = document.querySelector('.cursor');
-
+document.getElementById("bd").background="#f805f1";
 document.addEventListener('mousemove', e => {
   cursor.style.left = e.pageX + 'px';
   cursor.style.top = e.pageY + 'px';

@@ -2,7 +2,7 @@ function createFallingFlowers() {
     // Create a PixiJS application
 
 
-    let hex="#8f69b9";
+    let hex="#f827f2";
     const app = new PIXI.Application({
         width: window.innerWidth,
         height: window.innerHeight,
