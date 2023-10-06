@@ -1,0 +1,17 @@
+.navbar{
+  background-color: #ff99d2;
+  font-size: 50px;
+  height: 60px;
+}
+
+.navbar>:nth-child(1):hover{
+  filter: opacity(80%);
+  box-shadow: 1px 1px 5px 5px #d6cbd3;
+  border-radius: 20%;
+}
+
+.ref{
+  font-size: 50px;
+
+}
+

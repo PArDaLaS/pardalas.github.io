@@ -1,0 +1,20 @@
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background: #dea1ec;
+}
+
+.body{
+    background: #dea1ec;
+}
+
+.about{
+    background: linear-gradient(to top, #58b1ff 0%, #ff99d2 100%);
+}
+.about2{
+    background: linear-gradient(to top, #58b1ff 0%, deeppink 100%);
+}
+
+

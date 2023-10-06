@@ -1,0 +1,46 @@
+<!doctype html>
+<html onload="ms();">
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/pixi.js@5.3.3/dist/pixi.min.js"></script>
+    <script src="./script.js"></script>
+    <link rel="stylesheet" type="text/css" href="./canvas.css" />
+    <link rel="stylesheet" type="text/css" href="./navbar.css" />
+</head>
+
+    <nav class="navbar">
+        <a href="../src/index.js" style="color:#fd00fe;font-size:50px;float:left;margin-left:2vw;"> Home</a>
+        <a style="font-size:50px;color:#a600a6;float:left;margin-left: 20vw;"> <u> Cherry Blossoms </u> </a>
+        <title>Cherry Blossoms</title>
+
+    </nav>
+ <body  id="bd" onload="createFallingFlowers();" style="background-color:rebeccapurple;text-align: center;">
+
+<div id="cherry_about" class="about" style="background-color: deeppink;visibility: hidden;height:550px;width:300px;float: right;">
+    <article style="font-size:35px;color: #a600a6;text-align: center">
+        <br>
+        <br>
+
+        So, this is a fun project I thought of making while trying out a javascript tool/library, pixijs.
+        I kind of love the way it turned out and i keep adding cool things from time to time.
+    </article>
+</div>
+
+
+
+
+
+<script>
+    function ms(){
+const cursor = document.querySelector('.cursor');
+document.getElementById("bd").background="#f805f1";
+document.addEventListener('mousemove', e => {
+  cursor.style.left = e.pageX + 'px';
+  cursor.style.top = e.pageY + 'px';
+});
+    }
+</script>
+
+
+</body> 
+        </div>
+</html>
